@@ -156,7 +156,7 @@ A novel end-to-end framework bridging **Symbolic Regression + Deep Neural Networ
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhileshnarkhede&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=nikhileshnarkhede&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -173,4 +173,6 @@ A novel end-to-end framework bridging **Symbolic Regression + Deep Neural Networ
 
 ---
 
-
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
+</div>
