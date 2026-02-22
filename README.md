@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Nikhilesh%20Narkhede&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Data%20Science%20Researcher&descAlignY=55&descColor=8b949e"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=🤖+ML+Researcher+%7C+Physics-Aware+AI+Developer;🎓+MS+Data+Science+%40+UMass+Dartmouth+%7C+GPA+4.0;📄+Published+%7C+Journal+of+Composite+Science+%7C+R²+>+0.99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=🤖+ML+Researcher+%7C+Physics-Aware+AI+Developer;🎓+MS+Data+Science+%40+UMass+Dartmouth+%7C+GPA+4.0;📄+Published+%7C+Journal+of+Composite+Science+%7C+R%C2%B2+%3E+0.99)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikhileshnarkhede/">
