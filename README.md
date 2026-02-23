@@ -150,26 +150,21 @@ A novel end-to-end framework bridging **Symbolic Regression + Deep Neural Networ
 
 ## 📈 GitHub Stats
 
-<!-- ✅ Row 1: Profile Summary Cards — reliable alternative to github-readme-stats -->
+<!-- ✅ Row 1: 3 Summary Cards — loading correctly -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikhileshnarkhede&theme=tokyonight" height="165"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhileshnarkhede&theme=tokyonight" height="165"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nikhileshnarkhede&theme=tokyonight" height="165"/>
 </p>
 
-<!-- ✅ Row 2: Streak — working fine, keeping it -->
+<!-- ✅ Row 2: Streak — loading correctly -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nikhileshnarkhede&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- ✅ Row 3: Full profile activity timeline -->
+<!-- ✅ Row 3: Full contribution timeline — loading correctly -->
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhileshnarkhede&theme=tokyonight"/>
-</p>
-
-<!-- ✅ Row 4: Trophy showcase -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhileshnarkhede&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
