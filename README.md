@@ -11,7 +11,7 @@
   <a href="https://nikhileshnarkhede.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:nikhileshnarkhede@gmail.com">
+  <a href="mailto:narkhede.nikhilesh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://orcid.org/0009-0004-6982-5905">
