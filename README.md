@@ -26,7 +26,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class Nikhilesh:
+class Human:
     def __init__(self):
         self.name         = "Nikhilesh Narkhede"
         self.degree       = "MS Data Science @ UMass Dartmouth (GPA: 4.0)"
