@@ -151,12 +151,16 @@ A novel end-to-end framework bridging **Symbolic Regression + Deep Neural Networ
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhileshnarkhede&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhileshnarkhede&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhileshnarkhede&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhileshnarkhede&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=nikhileshnarkhede&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhileshnarkhede&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
